@@ -1,0 +1,9 @@
+# NAME: AdGuard Home
+# AUTHOR: OH
+# REPO: Reject
+# UPDATED: 2023-11-03
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,local.adguard.org
