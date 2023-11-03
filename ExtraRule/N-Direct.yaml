@@ -2,9 +2,8 @@
 # AUTHOR: OH
 # REPO: Direct
 # UPDATED: 2023-11-03
-# DOMAIN: 2
-# DOMAIN-KEYWORD: 2
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
 # TOTAL: 1
 payload:
   - DOMAIN-KEYWORD,nexconvert
-  - DOMAIN-KEYWORD,suo.yt
