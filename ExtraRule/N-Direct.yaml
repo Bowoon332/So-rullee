@@ -7,3 +7,4 @@
 # TOTAL: 1
 payload:
   - DOMAIN-KEYWORD,nexconvert
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
