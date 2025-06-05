@@ -1,0 +1,21 @@
+# 手动添加规则
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+# 台湾 
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+# 台湾根域名判断
+DOMAIN-SUFFIX,.tw
+# 台湾雅虎视频
+DOMAIN-SUFFIX,tw.tv.yahoo.com
+DOMAIN-SUFFIX,tw.yahoo.com
+DOMAIN-SUFFIX,bats.video.yahoo.com
+DOMAIN-SUFFIX,bats.yahoodns.net
+DOMAIN-SUFFIX,video-api.yql.yahoo.com
+DOMAIN-SUFFIX,vop-yahoo.akamaized.net
+DOMAIN-SUFFIX,yahoovod.hs.llnwd.net
+DOMAIN-SUFFIX,yep.video.yahoo.com
+# 台湾myvideo
+DOMAIN-SUFFIX,myvideo.net.tw
