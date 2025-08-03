@@ -25,13 +25,26 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,jules.google.com
 # include:groq
+DOMAIN-SUFFIX,groq.com
 # include:huggingface
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
 #  include:openai #
 # include:perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
 # include:poe
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 # include:xai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 # include:cursor
-
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 # CodeRabbit
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
