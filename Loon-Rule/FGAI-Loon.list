@@ -1,0 +1,50 @@
+#  include:anthropic #
+# include:google-deepmind
+  # Google DeepMind
+DOMAIN-SUFFIX,eepmind.com
+DOMAIN-SUFFIX,deepmind.google
+  # Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  # Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+  # NotebookLM
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+  # Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+# include:groq
+# include:huggingface
+#  include:openai #
+# include:perplexity
+# include:poe
+# include:xai
+# include:cursor
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+
+# Jasper
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,jasper.ai
+
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openrouter.ai
+
